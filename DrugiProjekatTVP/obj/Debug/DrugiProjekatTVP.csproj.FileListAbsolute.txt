@@ -1,0 +1,22 @@
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe.config
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.pdb
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csprojAssemblyReference.cache
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Form1.resources
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Properties.Resources.resources
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.GenerateResource.cache
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.CoreCompileInputs.cache
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.exe
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.pdb
+C:\Users\Sreja\source\repos\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Form2.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe.config
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.exe
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\bin\Debug\DrugiProjekatTVP.pdb
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csprojAssemblyReference.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Form1.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Form2.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.Properties.Resources.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.GenerateResource.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.csproj.CoreCompileInputs.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.exe
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\DrugiProjekatTVP\DrugiProjekatTVP\obj\Debug\DrugiProjekatTVP.pdb
